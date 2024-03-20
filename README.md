@@ -1,5 +1,7 @@
 # Titanic Survival Prediction
 
+[go straightaway to the results](https://github.com/jasperquak/titanic_survival_prediction/blob/main/TitanicSurvivalPrediction.ipynb)
+
 In this project I built a model to compete in Kaggle's competition to predict who survived the Titanic disaster and who did not. Feature engineering, model selection and model tuning are the key elements of the work. Models used are logistic regression, K nearest neighbor and random forest (for classification).
 
 This project was a 'guided project' as part of learning data science with [Dataquest](https://www.dataquest.io).
